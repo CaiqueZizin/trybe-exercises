@@ -1,0 +1,25 @@
+h1{
+    font-family: sans-serif;
+    font-size: 65px;
+    color: orange;
+}
+.classe{
+    background-color: blue;
+}
+p{
+    font-weight: 600;
+    font-size: 3em;
+}
+body{
+    font-size: 16px;
+    text-align: center;
+}
+ul{
+    line-height:40px;
+    text-decoration: overline;
+    font-style: italic;
+}
+li{
+    background-color: black;
+    color: cornsilk;
+}
